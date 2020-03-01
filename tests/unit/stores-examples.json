@@ -1,0 +1,54 @@
+[
+  {
+    "id": "1742",
+    "name": "ABU DHABI - SOWWAH",
+    "address": "The Galleria, Sowwah Square",
+    "gender": "Womenswear / Menswear",
+    "lat": "24.50138013631387",
+    "lng": "54.38876131600796",
+    "phone": "555 555 555",
+    "mail": "",
+    "hours": "Thurs: 10:00 – 00:00, Fri: 12:00 - 00:00, Sat - Wed: 10:00 – 22:00",
+    "countryIso": "AE",
+    "visible": true
+  },
+  {
+    "id": "1744",
+    "name": "BAKU - PORT BAKU",
+    "address": "Port Baku Mall, Neftchiler ave. 153",
+    "gender": "Womenswear",
+    "lat": "40.3751057",
+    "lng": "49.8636196",
+    "phone": "0099412 4640713",
+    "mail": "",
+    "hours": "Mon - Sun: 10:00 - 22:00",
+    "countryIso": "AZ",
+    "visible": true
+  },
+  {
+    "id": "1721",
+    "name": "BEIJING - SANLITUN",
+    "address": "Sanlitun Village, Village North Shop N2 - 12/22 11 Sanlitun Road, Chaoyang District 100027",
+    "gender": "Womenswear / Menswear",
+    "lat": "39.938991808861964",
+    "lng": "116.45540810317993",
+    "phone": "008601064168189",
+    "mail": "",
+    "hours": "Monday to Sunday 10:00 - 22:00",
+    "countryIso": "CN",
+    "visible": true
+  },
+  {
+    "id": "1739",
+    "name": "BEIJING - Shin Kong Place",
+    "address": "Shop D1046, D4010, D4052-1 (WRTW), D2040 (Men’s)\r\nLevel 1\r\nShin Kong Place\r\nNo. 87 Jianguo Road, Chaoyang District\r\nChina 10025",
+    "gender": "Womenswear | Menswear",
+    "lat": "39.90990928039753",
+    "lng": "116.47876846672364",
+    "phone": "Womenswear: +555 555 555 / Menswear: +555 555 555",
+    "mail": "shinkongplacertw.bj@cn.ale.com",
+    "hours": "Monday to Sunday 10:00 - 22:00",
+    "countryIso": "CN",
+    "visible": true
+  }
+]
